@@ -18,11 +18,15 @@ nav{
     font-size:20px;
   }
   
-  nav > ul{
-    display:flex;
-    align-items:center;
-    justify-content:space-around;
+nav > ul{
+      display: inline-flex;
+      align-items:center;
+      gap: 10px;
+
+
   }
+
+
   
   nav > ul > img{
     max-width: 20px;
